@@ -78,7 +78,7 @@
   
   # 🎯 Currently Working On
   
-  🎬 **Cineverse** - Multi-cinema movie listing platform (Coming to app stores in 2025)  <br>
+  🎬 **Cineverse** - Multi-cinema movie listing platform (Coming to app stores in 2026)  <br>
   🌐 Expanding my social network  <br>
   ☁️ Deep diving into APIs  <br>
 </div>
