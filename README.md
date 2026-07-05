@@ -22,11 +22,9 @@
 - 🌱 Currently mastering Docker & Google Cloud Functions  <br>
 - 🎯 2026 Goals: Launch Cineverse & contribute to OSS  <br>
 - ⚡ Fun fact: When not coding, I'm either surfing or snowboarding  (edit: I now spearfish as well) <br>
-
 <br><br>
 
 <div>
-
 # 🛠️ Tech Stack
   
   ### Languages:
